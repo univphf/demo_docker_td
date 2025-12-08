@@ -1,1 +1,1 @@
-docker build -t pg-insa . 
+docker buildx build -t pg-insa . 
